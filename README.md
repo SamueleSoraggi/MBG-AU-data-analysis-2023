@@ -1,0 +1,2 @@
+# Instructions
+course template
